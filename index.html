@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+
+    <title>Tłumacz | Język migowy </title>
+</head>
+<body>
+
+    <nav>
+        <button id="nav-info-btn" class="nav-info-btn">Informacje</button>
+        <div class="title">
+            <div class="title-pl">Tłumacz </div>
+            <p> | </p>
+            <div class="title-pjm">TłumaC</div>
+        </div>
+
+        <div class="display-mode">
+            <button id="light-mode" class="light-mode-on">&#9728;</button>
+            <button id="dark-mode" class="dark-mode-off">&#9789;</button>
+        </div>
+
+    </nav>
+
+    <div id="info-window" class="info-window-on">
+        <div class="blur"></div>
+        <div id="window" class="window">
+            <div class="content-1">
+                <p>Program nie służy do tłumaczenia całch zdań oraz słów.</p> 
+                <p>Jest to narzędzie do nauki daktylografii w PJM.</p>
+            </div>
+
+            <div class="content-2">
+                <p>Sposób wprowadzania dwuznaków:</p> 
+                <p>[SHIFT + h] H &#8594 ch</p>
+                <p>[SHIFT + c] C &#8594 cz</p>
+                <p>[SHIFT + r] R &#8594 rz</p>
+                <p>[SHIFT + s] S &#8594 sz</p>
+            </div>
+
+            <div class="content-3">
+                <p>Sposób wprowadzania reszty liter i znaków nie odbiega od powszechnie przyjętych norm.</p> 
+            </div>
+
+            <button id="window-info-btn" class="window-info-btn">Rozumiem</button>
+        </div>
+    </div>
+
+    <main>
+
+        <div id="left-section" class="left-section"></div>
+
+        <div class="center-section">
+            <button id="switch-btn" class="button-pl-to-pjm" name="zmień tłumaczenie">
+                <div class="rightarrow">&#8594</div>
+                <div class="leftarrow">&#8592</div>
+            </button>
+        </div>
+
+        <div id="right-section" class="right-section"></div>
+        
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
