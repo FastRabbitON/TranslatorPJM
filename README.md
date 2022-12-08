@@ -32,6 +32,8 @@ Javascript application that allows you to translate individual letters in sign l
 The application is complete.
 
 ## Contact
+https://srv49151.seohost.com.pl
+
 https://github.com/FastRabbitON \
 fastrabbiton@gmail.com
 
