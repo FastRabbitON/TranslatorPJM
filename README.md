@@ -1,5 +1,5 @@
 # Translator PJM
-Demo available under link: \
+Project available under link: \
 **https://srv49151.seohost.com.pl/Projects/Translator/index.html**
 
 ## Table of Contents
