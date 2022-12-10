@@ -1,5 +1,5 @@
 # Translator PJM
-Demo available under link: \
+Project available under link: \
 **https://srv49151.seohost.com.pl/Projects/Translator/index.html**
 
 ## Table of Contents
@@ -39,6 +39,8 @@ Online [here](https://srv49151.seohost.com.pl/Projects/Translator/index.html) or
 The application is complete.
 
 ## Contact
+https://srv49151.seohost.com.pl
+
 https://github.com/FastRabbitON \
 fastrabbiton@gmail.com
 
