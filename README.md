@@ -5,6 +5,7 @@ Demo available under link: \
 ## Table of Contents
 
 * [General Information](#general-information)
+* [How to run](#how-to-run)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Change Log](#change-log)
@@ -13,6 +14,12 @@ Demo available under link: \
 
 ## General Information
 Javascript application that allows you to translate individual letters in sign language. In the project, I use a font made by myself. 
+
+## How to run
+Online [here](https://srv49151.seohost.com.pl/Projects/Translator/index.html) or :
+ 1. Download all repositorie
+ 2. Unzip in a folder
+ 3. Run by open **index.html** file
 
 ## Technologies Used
 - HTML
