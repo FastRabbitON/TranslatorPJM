@@ -1,4 +1,4 @@
-# Translator PJM
+# Translator PJM 🅰️➞🈲 
 Project available under link: \
 **https://srv49151.seohost.com.pl/Projects/Translator/index.html**
 
