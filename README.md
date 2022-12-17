@@ -17,7 +17,7 @@ Javascript application that allows you to translate individual letters in sign l
 
 ## How to run
 Online [here](https://srv49151.seohost.com.pl/Projects/Translator/index.html) or :
- 1. Download all repositorie
+ 1. Download the entire repository
  2. Unzip in a folder
  3. Run by open **index.html** file
 
