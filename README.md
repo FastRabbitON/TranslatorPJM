@@ -5,8 +5,8 @@ Project available under link: \
 ## Table of Contents
 
 * [General Information](#general-information)
-* [How to run](#how-to-run)
 * [Technologies Used](#technologies-used)
+* [How to run](#how-to-run)
 * [Features](#features)
 * [Change Log](#change-log)
 * [Project Status](#project-status)
