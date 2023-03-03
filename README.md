@@ -13,7 +13,7 @@ Project available under link: \
 * [Contact](#contact)
 
 ## General Information
-Javascript application that allows you to translate individual letters in sign language. In the project, I use a font made by myself.
+Javascript application that allows you to translate individual letters in sign language. In the project I use a font made by myself.
 
 ## How to run
 Online [here](https://srv49151.seohost.com.pl/Projects/Translator/index.html) or :
