@@ -13,7 +13,7 @@
 ## General Information
 Javascript application that allows you to translate individual letters in sign language. In the project I use a font made by myself. 
 
-![Alt text](https://github.com/FastRabbitON/FastRabbitON/blob/main/GifBoard.gif)
+![Alt text](https://github.com/FastRabbitON/FastRabbitON/blob/main/GifTranslator.gif)
 
 ## How to run
  1. Download the entire repository
