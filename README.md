@@ -1,4 +1,6 @@
 # Translator PJM 🅰️➞🈲 
+Check out project online [HERE!](https://fastrabbiton.pl/translator)
+
 
 ## Table of Contents
 
@@ -13,7 +15,7 @@
 ## General Information
 Javascript application that allows you to translate individual letters in sign language. In the project I use a font made by myself. 
 
-![Alt text](https://github.com/FastRabbitON/FastRabbitON/blob/main/GifTranslator.gif)
+![GifTranslator](https://github.com/FastRabbitON/FastRabbitON/blob/main/GifTranslator.gif)
 
 ## How to run
  1. Download the entire repository
@@ -24,6 +26,7 @@ Javascript application that allows you to translate individual letters in sign l
 - HTML
 - CSS
 - JavaScript
+- React (in online version)
 
 ## Features
 - Dark mode version
@@ -33,12 +36,13 @@ Javascript application that allows you to translate individual letters in sign l
 - 16-08-2022: First version;
 - 25-08-2022: Add mobile version;
 - 24-11-2022: Little optimalization;
+- 01-09-2023: React version;
 
 ## Project Status
 The application is complete.
 
 ## Contact
-https://srv49151.seohost.com.pl
+https://fastrabbiton.pl/
 
 https://github.com/FastRabbitON \
 fastrabbiton@gmail.com
